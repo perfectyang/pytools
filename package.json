@@ -1,6 +1,6 @@
 {
   "name": "pytools",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "常用工具库",
   "main": "min/pytools.min.js",
   "directories": {
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/perfectyang"
+    "url": "https://github.com/perfectyang/pytools"
   },
   "keywords": [
     "front",
